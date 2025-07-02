@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [muyeedparkar@gmail.com](muyeedparkar@gmail.com)
 
-- 🔗 Connect Me on [https://www.linkedin.com/in/muyeed-parkar/](https://www.linkedin.com/in/muyeed-parkar/)
+- 🔗 Connect Me on [LinkedIn](https://www.linkedin.com/in/muyeed-parkar/)
 
 <h3 align="left">👁‍🗨What's Special about me</h3>
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
